@@ -7,9 +7,8 @@ public class alfabeto {
     public static boolean validarMensagem(String mensagem, String caracteresValidos) {
         Set<Character> conjuntoValidos = new HashSet<>();
 
-        for (char c : caracteresValidos.toCharArray()) {
+        for (char c : caracteresValidos.toCharArray()) 
             conjuntoValidos.add(c);
-        }
 
         for (char c : mensagem.toCharArray()) {
             if (!conjuntoValidos.contains(c)) 
