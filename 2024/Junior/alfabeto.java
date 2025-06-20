@@ -30,7 +30,6 @@ public class alfabeto {
             System.out.println("S");
         else
             System.out.println("N");
-        
         scanner.close();
     }
 }
