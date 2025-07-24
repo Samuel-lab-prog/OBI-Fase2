@@ -17,9 +17,6 @@ public class passatempo {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        int linhas = scanner.nextInt();
-        int colunas = scanner.nextInt();
-
         scanner.close();
     }
 }
