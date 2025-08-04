@@ -5,3 +5,8 @@ subcadeias -> 2022 Nível 2
 passatempo -> 2021 Nível 2
 impedido -> 2015 Nível Junior
 2015 Nível 1 Nível 2 
+capsulas -> 2018 Nível Junior
+pesos -> 2018 Nível Junior
+capsulas -> 2018 Nível 1
+relogios -> 2018 Nível 1
+2018 Nível 2
